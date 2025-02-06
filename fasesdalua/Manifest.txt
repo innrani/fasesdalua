@@ -1,0 +1,2 @@
+Main-Class: FasesLua
+Class-Path: lib/spark-core-2.9.3.jar
